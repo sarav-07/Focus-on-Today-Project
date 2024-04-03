@@ -1,0 +1,28 @@
+@media (max-width: 768px){
+    .title{
+        font-size: 2rem;
+        padding-top: 0.5rem;
+    }
+
+    main{
+        padding: 1rem ;
+    }
+
+    .card-container{
+        margin: 24px 0px;
+    }
+    
+
+    .goal-container{
+        height: 56px;
+    }
+
+    .goal-container .custom-checkbox{
+        height: 16px;
+        width: 16px;    
+    }
+
+    .copyright-message{
+        margin-top: 24px;
+    }
+}
